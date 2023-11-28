@@ -1,2 +1,2 @@
 # Port_Optim_Trad-Cryp
-Author - Shobit Ratwan
+Author - Shobit Ratwan CFA
